@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-github/
+dist-cloudflare/
+.astro/
+.wrangler/
+.migration/
+.local/
+coverage/
+.env
+.env.*
+.dev.vars*
+*.log
+*.xml
+.DS_Store

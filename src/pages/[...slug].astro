@@ -1,0 +1,11 @@
+---
+import Layout from '../layouts/Layout.astro';
+import {renderContent} from '../lib/render.mjs';
+export async function getStaticPaths(){
+ const pages=import.meta.glob('../content/pages/*.md',{eager:true});
+ return Object.values(pages).map((page:any)=>({params:{slug:page.frontmatter.route.replace(/^\//,'').replace(/\/$/,'')||undefined},props:{page}}));
+}
+const {page}=Astro.props;
+const html=renderContent(await page.compiledContent(),import.meta.env.BASE_URL);
+---
+<Layout {...page.frontmatter}><Fragment set:html={html} /></Layout>

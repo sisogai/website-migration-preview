@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Home",
+    "route": "/",
+    "id": "home"
+  },
+  {
+    "title": "Course Materials/講義資料",
+    "route": "/講義資料-course-materials/",
+    "id": "course-materials"
+  },
+  {
+    "title": "Advising Policy/指導を希望する方へ",
+    "route": "/advising-policy-指導を希望する方へ/",
+    "id": "advising"
+  },
+  {
+    "title": "Teaching/授業",
+    "route": "/teaching/",
+    "id": "teaching"
+  },
+  {
+    "title": "Research",
+    "route": "/research/",
+    "id": "research"
+  },
+  {
+    "title": "2025F Microeconomics II",
+    "route": "/2025f-microeconomics-ii/",
+    "id": "2025f-microeconomics-ii"
+  },
+  {
+    "title": "2025F Microeconomics (Graduate School)",
+    "route": "/2025f-microeconomics-graduate-school/",
+    "id": "2025f-microeconomics-graduate-school"
+  },
+  {
+    "title": "To Students/学生の皆さんへ",
+    "route": "/advising-policy/",
+    "id": "advising-policy"
+  },
+  {
+    "title": "2024F Microeconomics II (Undergrad)",
+    "route": "/microeconomics-ii-undergrad/",
+    "id": "microeconomics-ii-undergrad"
+  },
+  {
+    "title": "ゲーム理論（2025年度前期）",
+    "route": "/ゲーム理論（2025年度前期）/",
+    "id": "game-theory-2025"
+  },
+  {
+    "title": "Microeconomics I (2025 Spring)",
+    "route": "/microeconomics-i-undergrad/",
+    "id": "microeconomics-i-undergrad"
+  },
+  {
+    "title": "Microeconomics (Grad School)",
+    "route": "/microeconomics-grad-school/",
+    "id": "microeconomics-grad-school"
+  },
+  {
+    "title": "日本語教材の使用について（GBC生向け）",
+    "route": "/日本語教材の使用について（gbc生向け）/",
+    "id": "japanese-materials-policy"
+  },
+  {
+    "title": "磯貝 茂樹",
+    "route": "/日本語/",
+    "id": "japanese"
+  }
+]

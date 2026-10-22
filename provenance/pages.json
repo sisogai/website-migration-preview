@@ -1,0 +1,1027 @@
+[
+  {
+    "title": "Home",
+    "route": "/",
+    "source": "https://shigekiisogai.wordpress.com/",
+    "lang": "en",
+    "id": "home",
+    "text": "AssociateProfessor,UniversityofHyogoShigekiISOGAIIamaneconomistworkingongametheoryanditsapplicationstocollusion.Mycurrentresearchstudiescartelbehaviorthroughepistemicgametheory.MicroeconomicsGameTheoryCollusionEpistemicGameTheoryResearchCourseMaterialsContactAffiliationSchoolofEconomicsandManagement,UniversityofHyogoLocationKobe,JapanEmailisogai[at]em.u-hyogo.ac.jpQuickLinksResearchPublishedpapers,workingpapers,andresearchinprogress.TeachingCurrentandpastcoursesinmicroeconomicsandgametheory.",
+    "links": [
+      {
+        "text": "Research",
+        "href": "https://shigekiisogai.wordpress.com/research/"
+      },
+      {
+        "text": "Course Materials",
+        "href": "https://shigekiisogai.wordpress.com/%e8%ac%9b%e7%be%a9%e8%b3%87%e6%96%99-course-materials/"
+      },
+      {
+        "text": "Research",
+        "href": "https://shigekiisogai.wordpress.com/research/"
+      },
+      {
+        "text": "Teaching",
+        "href": "https://shigekiisogai.wordpress.com/teaching/"
+      }
+    ],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "e017318860075680f36f9161ee9072d7f9103cb82556ee47522138ca430091a0"
+  },
+  {
+    "title": "Course Materials/講義資料",
+    "route": "/講義資料-course-materials/",
+    "source": "https://shigekiisogai.wordpress.com/%E8%AC%9B%E7%BE%A9%E8%B3%87%E6%96%99-course-materials/",
+    "lang": "ja",
+    "id": "course-materials",
+    "text": "ミクロ経済学関係の講義資料を共有しています。ThispagelistscoursematerialsinMicroeconomicscourses.日本語：中級ミクロ経済学・ゲーム理論｜上級ミクロ経済学（準備中）English:IntermediateMicroeconomics|AdvancedMicroeconomicsミクロ経済学(学部中級レベル）対象授業:Microeconomics(GBC),ゲーム理論、ゲーム理論（帝塚山大学）。対象読者:ミクロ経済学の初学者に、始めから丁寧にミクロ経済学の各トピックを解説することを目的としています。比較的平易な数学を使用していますが、適宜解説を理解すれば問題ありません。講義ノート（日本語）：ミクロ経済学（2026/04/15新しいバージョンに差し替えました)練習問題・解答（日本語）：練習問題（注意：日本語のゲーム理論授業向けの練習問題です。GBCの練習問題は英語のほうを使ってください）解答例模擬試験・解答（日本語）：兵庫県立大学ゲーム理論模擬試験解答例科目一覧へ戻る/BacktocourseguideMicroeconomics(IntermediateLevel)ForMicroeconomics(GBC).Thelecturenotesaimtointroducemicroeconomicswithreadersofvariousbackgrounds.Whileweusesimplemathematics,thereadercanunderstandthematerialsbyreadingthenotesstepbystep.Lecturenotes(English):MicroeconomicsInteractivematerials:InteractiveVisualizations(Prototype)Problemsetsandsolutions(English):ProblemSetsSolutionsFormerexamandsolutions(English):FormerFinalExam(Microeconomics2025)SolutionsMockexamandsolutions(English):Microeconomics2026@UofHyogoMockExamSolutions科目一覧へ戻る/Backtocourseguide上級ミクロ経済学（準備中）主な対象授業:AdvancedMicroeconomics(GBC)。対象読者:基本的なミクロ経済学を理解している読者に、より研究のフロンティアに近い内容を解説することを目指しています。これを読むことで、ミクロ経済学の研究論文を読めるようになることが期待できます。扱う数学は比較的高度なものですが、解説をきちんと理解していけば理解できるはずです。特に、学部生だから理解できないということは決してありません。科目一覧へ戻る/BacktocourseguideAdvancedMicroeconomicsForAdvancedMicroeconomics(GBC)andMicroeconomics(DGB).Thenotesaimtoexplainadvancedresearchtopicsofmicroeconomics.Aftercompletingthisnotes,studentswillbeabletostartreadingacademicpapersinmicroeconomics.Lecturenotes(English):AdvancedMicroeconomics–LectureEdition(Pleaseusethisversionforcoursepreparation)AdvancedMicroeconomics–ReferenceEdition(Ifyouaimtodoresearchinmicroeconomics,consultthisversion)PDFrevised:2026/09/26ProblemSetsLinknotlisted/リンク未掲載科目一覧へ戻る/Backtocourseguide",
+    "links": [
+      {
+        "text": "中級ミクロ経済学・ゲーム理論",
+        "href": "#intermediate-ja"
+      },
+      {
+        "text": "上級ミクロ経済学（準備中）",
+        "href": "#advanced-ja"
+      },
+      {
+        "text": "Intermediate Microeconomics",
+        "href": "#intermediate-en"
+      },
+      {
+        "text": "Advanced Microeconomics",
+        "href": "#advanced-en"
+      },
+      {
+        "text": "ミクロ経済学",
+        "href": "https://drive.google.com/file/d/1U7ds7kobftj2sipwcrcpnG6Nv3QsOPI5/view?usp=sharing"
+      },
+      {
+        "text": "練習問題",
+        "href": "https://drive.google.com/file/d/1KvPLmJlfzTiw_JBXHtiHt5v4BYkrvB32/view?usp=sharing"
+      },
+      {
+        "text": "解答例",
+        "href": "https://drive.google.com/file/d/1NUqlwK-8_hE0O0V4j07TRYidi4on9Gw-/view?usp=sharing"
+      },
+      {
+        "text": "模擬試験",
+        "href": "https://drive.google.com/file/d/176oFwCAaScBQMCuAg-jxad4AX0rynJAs/view?usp=sharing"
+      },
+      {
+        "text": "解答例",
+        "href": "https://drive.google.com/file/d/1bwig-BgS64h-Y-_9by9tpoawv5tsymzR/view?usp=sharing"
+      },
+      {
+        "text": "科目一覧へ戻る / Back to course guide",
+        "href": "#course-guide"
+      },
+      {
+        "text": "Microeconomics",
+        "href": "https://drive.google.com/file/d/1dx38qiGsn8UlhuvhwdWWJoQYDWqpum_C/view?usp=sharing"
+      },
+      {
+        "text": "Interactive Visualizations (Prototype)",
+        "href": "https://sisogai.github.io/teaching/index.html"
+      },
+      {
+        "text": "Problem Sets",
+        "href": "https://drive.google.com/file/d/1QTHd1B04EECkH8JKAL-wJAVcFsUKKz3M/view?usp=sharing"
+      },
+      {
+        "text": "Solutions",
+        "href": "https://drive.google.com/file/d/1z77qb2V5QpMjgrWvUcGuEeGbG9FzHgWA/view?usp=sharing"
+      },
+      {
+        "text": "Former Final Exam (Microeconomics 2025)",
+        "href": "https://drive.google.com/file/d/1vbM8VcpefXHNduN9DQTWFL32xQiN0fWY/view?usp=sharing"
+      },
+      {
+        "text": "Solutions",
+        "href": "https://drive.google.com/file/d/1BcipO73dnAImgC6H7H43hIV-QI4cRhj4/view?usp=drive_link"
+      },
+      {
+        "text": "Mock Exam",
+        "href": "https://drive.google.com/file/d/1IjSkQdxLnQgUeYnLKSr0PkZxIYeqklBr/view?usp=sharing"
+      },
+      {
+        "text": "Solutions",
+        "href": "https://drive.google.com/file/d/1XIJiSpJkAUPeSXgBk0ykNKzhgNV0xeZj/view?usp=sharing"
+      },
+      {
+        "text": "科目一覧へ戻る / Back to course guide",
+        "href": "#course-guide"
+      },
+      {
+        "text": "科目一覧へ戻る / Back to course guide",
+        "href": "#course-guide"
+      },
+      {
+        "text": "Advanced Microeconomics – Lecture Edition",
+        "href": "https://drive.google.com/file/d/1JVPARnzXDqNlv3Ewr6fj6nbWmA5_5jS8/view?usp=sharing"
+      },
+      {
+        "text": "Advanced Microeconomics – Reference Edition",
+        "href": "https://drive.google.com/file/d/1JH18W8vCnM4uhPPKJASs5zA8XV7zcJHz/view?usp=sharing"
+      },
+      {
+        "text": "科目一覧へ戻る / Back to course guide",
+        "href": "#course-guide"
+      }
+    ],
+    "images": [],
+    "anchors": [
+      "course-guide",
+      "intermediate-ja",
+      "intermediate-en",
+      "advanced-ja",
+      "advanced-en"
+    ],
+    "sourceSha256": "bd89c8d0020ff08d3aa19a839c67e505a092546c450d5367ee69d9f526088f76"
+  },
+  {
+    "title": "Advising Policy/指導を希望する方へ",
+    "route": "/advising-policy-指導を希望する方へ/",
+    "source": "https://shigekiisogai.wordpress.com/advising-policy-%E6%8C%87%E5%B0%8E%E3%82%92%E5%B8%8C%E6%9C%9B%E3%81%99%E3%82%8B%E6%96%B9%E3%81%B8/",
+    "lang": "ja",
+    "id": "advising",
+    "text": "日本語と英語の説明を選べます/Choosealanguage:日本語|Englishseminarflyer日本語何を学ぶ：ミクロ経済学とゲーム理論を学び、経済現象の理解を目指します。ゼミの準備：特別な事前準備は不要です。数式やグラフを理解しようとする気持ちを大切にします。相談：大学院進学は早めにご相談ください。交換留学との両立についてもご相談ください。ResearchSeminar|大学院進学を考えている方へResearchSeminar扱う内容（教員の専門である）ミクロ経済学とゲーム理論を学び、経済現象を理解することを目指します。最初の1-2セメスター（ResearchSeminarI&II）は教員の講義ノートを用いてゲーム理論について学んでいき、その後は参加者の興味に応じて学習and/or研究を行なっていきます。選考、参加にあたって準備すること選考、参加にあたって皆さんのほうで特別に準備しておかなければならないことはありません。ただ、ミクロ経済学やゲーム理論に関連する内容を扱うので、数式やグラフを扱う心の準備はしていただけると良いと思います（理解しているかどうかよりも、理解しようとする気持ちがあるかどうかが大事です）フィールドワーク、留学などの活動についてゼミ内でフィールドワークなどの活動を行う予定は今のところありませんが、皆さんが自発的にそれらに参加することを応援します。交換留学などとゼミの両立についてはできる限り協力しますので、ご相談ください。将来のキャリアについて就職活動に関しては（私のほうでできることはあまりないと思いますが）できる限り協力いたします。大学院への進学を考えている方には多少アドバイスできると思いますので、その場合は（早めに）ご相談ください。大学院進学を考えている方へ経済学は学部教育と大学院教育のギャップが大きい分野と言っていいかと思います。もし本格的に学びたい、経済学の知識を活かせるような仕事に就きたい、研究者になりたい、という気持ちがあるのなら、大学院への進学も選択肢に入るかもしれません。就職との兼ね合いについて大学院課程は基本的に修士課程（博士前期課程）と博士課程（博士後期課程）に分かれており、多くの場合前者に2年、後者に3年かけます（博士課程に４年以上かかることもあります）。修士課程からは専門家/実務家として就職することもできる一方、日本では博士課程は研究者養成課程と考える人が多いです。私は修士課程の後の就職活動をしていないので実体験ではありませんが、修士課程を出た後に金融機関やコンサルティング業界に就職する例はいくつか聞いたことがあります（ただし、修士1回生から就職活動が始まるため、在学中はかなり忙しいようです）。事前の学習について経済学の大学院教育は学部教育とは分析手法の面で大きなギャップがあります。学部では直観的な説明で済まされていた数学的な議論を正確に運用する必要が出てき、また統計学もきちんと理解する必要があります。特に経済理論に興味がある場合にはそれらに関する理解は蔑ろにできないところでもあります。大学院に入ってから新しく学ぶ時間は限られているので、進学を考えているならば早い段階で準備をしておくことをおすすめします。進学する大学院がある程度絞れているのなら、その大学院の授業教材を読んでおくといいでしょう。また、数学については（大学院でのコースワークについていくには）集合論、解析学、線形代数学、最適化あたりは一通り理解しておいたほうがよいと思います。教材についてはお好みで選んでいただければよいですが、ある程度の範囲をカバーしたテキストとしてRudinの”PrinciplesofMathematicalAnalysis”はおすすめです。言語選択へ戻る/BacktolanguageselectionEnglishStudy:Microeconomics,gametheory,andreal-worldapplications.Seminarpreparation:Noprerequisites;willingnesstolearnpatientlymatters.Advice:Discussgraduate-schoolplansearly.ResearchSeminar|ForThoseConsideringGraduateSchoolResearchSeminarTopicsTheseminarstudiesmicroeconomics,gametheory,anditsapplicationstotherealworld.Thefirstoneortwosemesterswillbedevotedtostudyingthelecturenotesongametheory.Afterthat,wewilldecidewhattostudybasedonyourinterests.PrerequisiteThereisnoprerequisitefortheseminar.Sincethestudyinvolvesmicroeconomics,weusesomeequationsandgraphs.Itisimportantthatyouarewillingtostudypatientlyifnotknowingmathverywell.OtheractivitiesIamnotplanningtoholdotheractivitiessuchasfieldtrips.YourFutureCareerIfyouareplanningtoapplyforagradschool,justletmeknowassoonaspossible.ForThoseConsideringGraduateSchoolEconomicsisafieldwithaparticularlylargegapbetweenundergraduateandgraduateeducation.Ifyouhaveastrongdesiretostudyeconomicsseriously,pursueacareerwhereeconomicknowledgeisdirectlyapplicable,orbecomearesearcher,graduateschoolmaybeworthconsidering.GraduateSchoolandCareerProspectsGraduateprogramsaregenerallydividedintoamaster’sprogram(typicallytwoyears)andadoctoralprogram(typicallythreeyears,thoughitsometimestakesfourormore).Whileitispossibletoenterprofessionalorindustrycareersaftercompletingamaster’sdegree,doctoralprogramsinJapanarewidelyregardedastraininggroundsforresearchers.Ihavenopersonalexperiencewithjobhuntingafteramaster’sdegree,butIhaveheardofcaseswheremaster’sgraduateshavegoneontocareersinfinanceorconsulting.Thatsaid,jobhuntinginJapantypicallybeginsinthefirstyearofthemaster’sprogram,sostudentstendtohavequiteademandingscheduleduringthatperiod.PreparationBeforeEnteringGraduateSchoolThereisasignificantgapbetweenundergraduateandgraduateeconomicsintermsofanalyticalmethods.Argumentsthatwerehandledintuitivelyattheundergraduatelevelmustbetreatedwithmathematicalrigoratthegraduatelevel,andasolidunderstandingofstatisticsisalsorequired.Forthoseinterestedineconomictheoryinparticular,thesefoundationscannotbeoverlooked.Sincetimetolearnnewmaterialafterenteringgraduateschoolislimited,Istronglyrecommendstartingyourpreparationearlyifyouareconsideringthispath.Ifyouhavenarroweddownwhichgraduateprogramsyouaretargeting,itisagoodideatolookthroughthecoursematerialsusedthereinadvance.Intermsofmathematics,Iwouldrecommendgainingaworkingunderstandingofsettheory,realanalysis,linearalgebra,andoptimizationbeforestartinggraduatecoursework.Youarewelcometochooseyourowntextbooks,butforasinglevolumecoveringasolidrangeofthesetopics,Rudin’sPrinciplesofMathematicalAnalysisisagoodoption.Backtolanguageselection/言語選択へ戻る",
+    "links": [
+      {
+        "text": "日本語",
+        "href": "#advising-ja"
+      },
+      {
+        "text": "English",
+        "href": "#advising-en"
+      },
+      {
+        "text": "seminar flyer",
+        "href": "https://drive.google.com/file/d/1C5e3dEy-KHZc9DJEAeD4i1bIwcE7fWCF/view?usp=sharing"
+      },
+      {
+        "text": "Research Seminar",
+        "href": "#seminar-ja"
+      },
+      {
+        "text": "大学院進学を考えている方へ",
+        "href": "#graduate-ja"
+      },
+      {
+        "text": "言語選択へ戻る / Back to language selection",
+        "href": "#page-guide"
+      },
+      {
+        "text": "Research Seminar",
+        "href": "#seminar-en"
+      },
+      {
+        "text": "For Those Considering Graduate School",
+        "href": "#graduate-en"
+      },
+      {
+        "text": "Back to language selection / 言語選択へ戻る",
+        "href": "#page-guide"
+      }
+    ],
+    "images": [],
+    "anchors": [
+      "page-guide",
+      "advising-ja",
+      "seminar-ja",
+      "graduate-ja",
+      "advising-en",
+      "seminar-en",
+      "graduate-en"
+    ],
+    "sourceSha256": "5a66905f7305437721bdd0f0b1c66a3ec4d4b91bfbb94866bd64232748020353"
+  },
+  {
+    "title": "Teaching/授業",
+    "route": "/teaching/",
+    "source": "https://shigekiisogai.wordpress.com/teaching/",
+    "lang": "en",
+    "id": "teaching",
+    "text": "2026SpringMicroeconomicsIThesisSeminarIゲーム理論（帝塚山大学）ゲーム理論（帝塚山大学）社会と人間A(経済)2025FallMicroeconomicsIIMicroeconomics(GradSchool)ResearchMethodology(GradSchool)ResearchSeminarIIIThesisSeminarII2025SpringMicroeconomicsIResearchSeminarIIThesisSeminarIゲーム理論2024FallMicroeconomicsII(Undergrad)IntroductoryMacroeconomics(Undergrad)Microeconomics(GraduateSchool)ResearchSeminarIResearchSeminarIII2024SpringMicroeconomicsI(Undergrad)過去に担当した授業TokyoMetropolitanUniversity/東京都立大学(2019-2023,2026)SpecialLecturesonMicroeconomics/経済経営特別講義（Microeconomics）(undergrad)SouthwesternUniversityofFinanceandEconomics/西南財経大学(2017-2023)MoneyandBanking(undergrad)AdvancedMicroeconomicsI(graduate)AdvancedMicroeconomicsII(graduate)AdvancedMicroTheory(graduate)AppliedMicroeconomicTheoryII(graduate)TheoryofIndustrialOrganization(graduate)",
+    "links": [],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "d9374e7a49680592cc713014e0a2396159af0da49898bdbfefb15eb1ad64f26c"
+  },
+  {
+    "title": "Research",
+    "route": "/research/",
+    "source": "https://shigekiisogai.wordpress.com/research/",
+    "lang": "en",
+    "id": "research",
+    "text": "PublishedPapersRefereed:Multiproductfirm’sreputationandleniencyprograminmultimarketcollusion(jointwithChaohaiShen),EconomicModelling,Vol.125,August2023.Non-Refereed:(inJapanese)「脅しの有効性とカルテルの安定性」(CredibilityofThreatandCartelStability)、経済論叢第195巻第4号（岩元武和教授退職記念號）、2021WorkinProgressWhenIntegrationFails:CollusionandRiskSharinginRenewableElectricityMarkets(JointwithYoungrokKimandChihiroYagi)CredibilityofDeterrenceandExtensive-FormRationalizabilityStrategicStabilityofEquilibriainRepeatedGameswithEndogenousTermination",
+    "links": [
+      {
+        "text": "Multiproduct firm’s reputation and leniency program in multimarket collusion",
+        "href": "https://www.sciencedirect.com/science/article/abs/pii/S0264999323001608?via%3%20Dihub="
+      }
+    ],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "d012b9fab2a397f9c5aa0f3a66ab686e4ec3fd1c3244f813e454dbfb1c57951d"
+  },
+  {
+    "title": "2025F Microeconomics II",
+    "route": "/2025f-microeconomics-ii/",
+    "source": "https://shigekiisogai.wordpress.com/2025f-microeconomics-ii/",
+    "lang": "en",
+    "id": "2025f-microeconomics-ii",
+    "text": "LectureNotesDecisionunderUncertaingyEnglishJapaneseEconomicsofInformationEnglishJapaneseIntrotoGamesandBackwardInductionEnglishJapaneseSimultaneous-MoveGamesEnglishJapaneseImperfect-InformationGamesEnglishJapaneseRepeatedGamesEnglishJapaneseIncomplete-InformationGamesEnglishJapaneseApplicationsofIncomplete-InformationGamesEnglishJapaneseDynamicGamesofIncompleteInformationEnglishJapaneseProblemSetsDecisionunderUncertaintysolutionBackwardInductionsolutionStrategic-FormGamessolutionGeneralDynamicGamessolutionRepeatedGamessolutionIncomplete-InformationGamessolutionDynamicGamesofIncompleteInformationsolutionMockExamMockExamsolutionPastFinalExamPastFinalExamProblems",
+    "links": [
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1d744pIwxXli1Qlp1ijWSFNRWb_Jxlcxa/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1QmGxkcszqmC_NSleQMaXq7TAdSXc5L60/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1UrheSqtSTUUBi7pLxt5KLTXfCbfXquQ7/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1hqfONDejxzid_kLh3W9DcvMIPKx8eCEn/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1VKrIbr5SbqCpJVGpQ1JL61ymzBD8gq8a/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1VFofjzFAFyj0jEodEQ3hGQDFdZYud31v/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1BDP_RGbj0WthThRgWJv0S7i1hJenad-5/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1PUQcrk-ItQ1h24ZKdKGrply73Tef2Mzj/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1QjCwbOpVtmL5T1ebnpDZVNxESZ3lfjQt/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/18yDUD3m7aBFmGgtdlfdUEpPpAg-o4UYA/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1y34L3Y9VLpTlRjhK7ROLpO9DGUMbq6xq/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1a-Xm9ogMnhf-R9-NvuBWEiLwDzJ5n4bF/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/16Xm34GvBa09cCP-zz-rJEHHMhEoR395S/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/17BopjNzJbOeuXZ6Z8F56BXSSuqjOzyWe/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/15AJxn3caZZRlxKs5EWiuxYDy8wBM5NMJ/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/17Vn1g0Yu6C4X4mBWJvLsqmrV9dAr8KZ7/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/14VrFoQvhf2oHPYmR8mKcxy3IKYKF1U_h/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/11DvyRnuG2bD0AV-wI_vx94b16k_CVkdK/view?usp=sharing"
+      },
+      {
+        "text": "Decision under Uncertainty",
+        "href": "https://drive.google.com/file/d/1A8724Pukr6s4_gc_cTNiMFnsgO3qyQHf/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1ZVF6xCAEDdnA7cn1UQy8Qq6O5C_E8_iJ/view?usp=sharing"
+      },
+      {
+        "text": "Backward Induction",
+        "href": "https://drive.google.com/file/d/1-uPxbsW8O4n822H456mJy-EeWCygs_gS/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1u3F-g0WiYT00e2DW7D-itqQ2VVUeB7lt/view?usp=drive_link"
+      },
+      {
+        "text": "Strategic-Form Games",
+        "href": "https://drive.google.com/file/d/18857JtKti8VpZ2Eu7025ui7W-yW_a3WX/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1f91SdP25smxnGQqkaVs5GvP8g3Fsoxtt/view?usp=drive_link"
+      },
+      {
+        "text": "General Dynamic Games",
+        "href": "https://drive.google.com/file/d/1bkqyou_tz-K0Ha4kCt9s3AvDySeasfZe/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1LuFXDHCre6tm2BJWc-QehuXSvn1VArpr/view?usp=drive_link"
+      },
+      {
+        "text": "Repeated Games",
+        "href": "https://drive.google.com/file/d/1HcwK4F995IoAqz79sNvZ0YuHzYrOjHFd/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1DFRBFO4hemENrW_dancFwz_RsQFvp0P6/view?usp=drive_link"
+      },
+      {
+        "text": "Incomplete-Information Games",
+        "href": "https://drive.google.com/file/d/1wIt47Z5HUhD_oh5et7gtNcsYOan-Jjra/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1FE0Vf62EroQhrV7bStqPWVQ_OSlACOLb/view?usp=drive_link"
+      },
+      {
+        "text": "Dynamic Games of Incomplete Information",
+        "href": "https://drive.google.com/file/d/1e5yOxa84f80ZxhYGwhHmpcmU7oPLDCKE/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1HLYVjK0jXzf5GdL1fLz8WqKA8SCI2SqN/view?usp=drive_link"
+      },
+      {
+        "text": "Mock Exam",
+        "href": "https://drive.google.com/file/d/1Q_AmVTsAzYIsiMQgV_oLpQUPmm87NxQx/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1a9KHvLRrlxN9XJe7J0mQkaYqUlC-xSMJ/view?usp=sharing"
+      },
+      {
+        "text": "Past Final Exam Problems",
+        "href": "https://drive.google.com/file/d/1Qas8zXKCdtMQqM1Jei9eXfuQNNQH3sPl/view?usp=sharing"
+      }
+    ],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "47d1e685d341634b490cabf6f4af2dbb84373cf00a9196d7cfd6b3d939352239"
+  },
+  {
+    "title": "2025F Microeconomics (Graduate School)",
+    "route": "/2025f-microeconomics-graduate-school/",
+    "source": "https://shigekiisogai.wordpress.com/2025f-microeconomics-graduate-school/",
+    "lang": "en",
+    "id": "2025f-microeconomics-graduate-school",
+    "text": "LectureNotesIntroduction(ForReference)BasicConceptsofGameTheoryandBackwardInductionSimultaneous-MoveGamesImperfect-InformationGamesRepeatedGamesIncomplete-InformationGamesApplicationsofIncomplete-InformationGamesDynamicGamesofIncompleteInformationDecisionunderUncertaintyEconomicsofInformationEconomyandMarkets(ForReference)ProducerTheory(ForReference)ConsumerTheory(ForReference)PartialEquilibriumAnalysisGeneralEquilibriumAnalysisMarketFailuresProblemSetsBackwardInductionsolutionStrategic-FormGamessolutionGeneralDynamicGamessolutionRepeatedGamessolutionIncomplete-InformationGamessolutionMockExamMockExamsolution",
+    "links": [
+      {
+        "text": "Introduction (For Reference)",
+        "href": "https://drive.google.com/file/d/1_kMyFg7bqhuFv_bndP5SKrvbRHe7NljW/view?usp=sharing"
+      },
+      {
+        "text": "Basic Concepts of Game Theory and Backward Induction",
+        "href": "https://drive.google.com/file/d/1YKgAkJ___J-iKHMXpOd7ekS65se2gLjF/view?usp=sharing"
+      },
+      {
+        "text": "Simultaneous-Move Games",
+        "href": "https://drive.google.com/file/d/17nHOdBHiHdRUQrQUdmzkpHAWrSh7_MpK/view?usp=sharing"
+      },
+      {
+        "text": "Imperfect-Information Games",
+        "href": "https://drive.google.com/file/d/12ROMWeYSjqq7SMe_WNvnyUcZ6FQaIld2/view?usp=sharing"
+      },
+      {
+        "text": "Repeated Games",
+        "href": "https://drive.google.com/file/d/1YcTOnkcmkqgBFP7pXJp7sHVc0CVvUTWN/view?usp=sharing"
+      },
+      {
+        "text": "Incomplete-Information Games",
+        "href": "https://drive.google.com/file/d/1p6g43sSQQzcv2_0tlroXA_ThEyuYl1r3/view?usp=sharing"
+      },
+      {
+        "text": "Applications of Incomplete-Information Games",
+        "href": "https://drive.google.com/file/d/1N1sgK2YoNnffXZCNKFSeykXZP4o7YZMk/view?usp=sharing"
+      },
+      {
+        "text": "Dynamic Games of Incomplete Information",
+        "href": "https://drive.google.com/file/d/11NgDuId0Bn00ct9esSA_DT2x7oIqc0vn/view?usp=sharing"
+      },
+      {
+        "text": "Decision under Uncertainty",
+        "href": "https://drive.google.com/file/d/1ujpcQtiOcma6bnfl0aCuAY0JhBwy4Iwu/view?usp=sharing"
+      },
+      {
+        "text": "Economics of Information",
+        "href": "https://drive.google.com/file/d/18lQMPnCxaLc8uoh-V3CoSzCGYRRGIC4G/view?usp=sharing"
+      },
+      {
+        "text": "Economy and Markets (For Reference)",
+        "href": "https://drive.google.com/file/d/1dP1FOfAo9ywxrO4MbPaDKgsabFY8aCxG/view?usp=sharing"
+      },
+      {
+        "text": "Producer Theory (For Reference)",
+        "href": "https://drive.google.com/file/d/137UPad-ojYI-SooVLWAL6uYuZ8RIy_x-/view?usp=sharing"
+      },
+      {
+        "text": "Consumer Theory (For Reference)",
+        "href": "https://drive.google.com/file/d/1tnOcwt3aj8Kq_l5TqYd2vewc3oY1iCMM/view?usp=sharing"
+      },
+      {
+        "text": "Partial Equilibrium Analysis",
+        "href": "https://drive.google.com/file/d/1KIvmhKd1zvnfHF4W75AD2EcQnYROs7qa/view?usp=sharing"
+      },
+      {
+        "text": "General Equilibrium Analysis",
+        "href": "https://drive.google.com/file/d/1G3SG-iAuG5vPRu5i4WnHIAV77Q8e8OwC/view?usp=sharing"
+      },
+      {
+        "text": "Market Failures",
+        "href": "https://drive.google.com/file/d/1chvdNlO-EIHJ-upt9DcBfbZF-GpV3kJV/view?usp=sharing"
+      },
+      {
+        "text": "Backward Induction",
+        "href": "https://drive.google.com/file/d/1-uPxbsW8O4n822H456mJy-EeWCygs_gS/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1u3F-g0WiYT00e2DW7D-itqQ2VVUeB7lt/view?usp=sharing"
+      },
+      {
+        "text": "Strategic-Form Games",
+        "href": "https://drive.google.com/file/d/18857JtKti8VpZ2Eu7025ui7W-yW_a3WX/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1f91SdP25smxnGQqkaVs5GvP8g3Fsoxtt/view?usp=sharing"
+      },
+      {
+        "text": "General Dynamic Games",
+        "href": "https://drive.google.com/file/d/1bkqyou_tz-K0Ha4kCt9s3AvDySeasfZe/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1LuFXDHCre6tm2BJWc-QehuXSvn1VArpr/view?usp=sharing"
+      },
+      {
+        "text": "Repeated Games",
+        "href": "https://drive.google.com/file/d/1HcwK4F995IoAqz79sNvZ0YuHzYrOjHFd/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1DFRBFO4hemENrW_dancFwz_RsQFvp0P6/view?usp=sharing"
+      },
+      {
+        "text": "Incomplete-Information Games",
+        "href": "https://drive.google.com/file/d/1wIt47Z5HUhD_oh5et7gtNcsYOan-Jjra/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1FE0Vf62EroQhrV7bStqPWVQ_OSlACOLb/view?usp=sharing"
+      },
+      {
+        "text": "Mock Exam",
+        "href": "https://drive.google.com/file/d/1UjfH23Qj6vf-gsL3pmExjMSo7tzcIKj8/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1X-2y-EjZNrLNwt-7KiXvkQ111ZILEvSp/view?usp=sharing"
+      }
+    ],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "a535977c9ba4e760225f06c5d93b81884960f8edf69b3a2271ea9e240ae8f722"
+  },
+  {
+    "title": "To Students/学生の皆さんへ",
+    "route": "/advising-policy/",
+    "source": "https://shigekiisogai.wordpress.com/advising-policy/",
+    "lang": "ja",
+    "id": "advising-policy",
+    "text": "Officehoursin2025Fall/2025年後期オフィスアワーOfficeHoursbyAppointmentRecommendedBooksMichaelSandel,“Justice:What’stheRightThingtoDo?”MichaelSandel,“WhatMoneyCan’tBuy:TheMoralLimitsofMarkets”Economicsstartedasamoralphilosophy.Also,tobea“globalleader,”Ithinkyouneedtoaimforuniversalityofyourvaluejudgement.Thefirstbookexplainsvariousideasinmoralandpoliticalphilosophy.Thesecondbookismoreaboutcriticismtowardeconomics.Afterstudyingeconomics,youcanreadthebookandthinkabouthoweconomicscouldbe(ordonothavetobe)improved.学生さんにお薦めする本『英語ヒエラルキー』佐々木テレサ，福島青史日本で英語を用いて教育を行っている大学出身者の体験談と，教育への提言．GBCで学ぶ皆さんも読んでおき，これから自分の強みをどこにおいていくのかを考える助けにすることをお勧めします．『これからの「正義」の話しをしよう』マイケル・サンデル（本当になりたいかは知りませんが）グローバルリーダーになるには価値観の普遍性というもの重要だと思います。社会においてどのような共通善が実現されるべきか、その考え方を学ぶのに良い本だと思います。『それをお金で買いますか』マイケル・サンデルより経済学批判に向いた本。経済学をある程度学んだ後にサンデルの議論に納得するか、納得するにしてもしないにしても、経済学のどの仮定に問題の根本があるのか考えることは有益だと思います。磯貝が勉強したいトピック以下のトピックに興味のある方が一定数いらっしゃれば読書会ができないかと企んでおります。数学、例えば関数解析や確率論。Dudley,“RealAnalysisandProbability”など部分識別の計量経済学理論。例えば奥村『部分識別入門』機械学習。例えば末石『データ駆動型回帰分析』その他磯貝が読もうと思って読めていない本Vohra,“MechanismDesign”Spiegler,“BoundedrationalityandIndustrialOrganization”など",
+    "links": [],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "897d74c0c45dc8d6be892d33640b97467f8e8c49ac79b840712f761ec8133b65"
+  },
+  {
+    "title": "2024F Microeconomics II (Undergrad)",
+    "route": "/microeconomics-ii-undergrad/",
+    "source": "https://shigekiisogai.wordpress.com/microeconomics-ii-undergrad/",
+    "lang": "ja",
+    "id": "microeconomics-ii-undergrad",
+    "text": "Thispagesharescoursematerials.SomehavebothEnglish&Japaneseversions.Note:Pleaseunderstandthat,bypreparingtheJapaneseversionoflecturenotes,IDONOTintendtofavordomesticstudents.UndertheGBC’suniquesituationandcurriculum,studentswithdiversebackgroundsaremakingconsiderableefforts.Inmyopinion,copingwithdiversityisnottreatingdiversepeopleinthesameway(treatingpeopleisnota“one-fits-all”thing);itisunderstandingthedifferences,strengths,andweaknessesofdiversepeopleandtailoringthewayproblemsareaddressed(Ofcourse,thatstatementshouldnotbeusedasanumbrellatojustifydiscrimination,though).IalsobelievethatpreparingJapanesenotesencouragesdomesticstudentstopositivelyparticipateinclassandencouragesdiscussion/groupstudybetweendomesticandinternationalstudents.Ihopethiswill(Pareto-)improvethe“welfare”oftheclass.日本語教材使用に関する注意(MyopinionaboutdomesticstudentslearningeconomicsinEnglish)LectureNotesDecisionunderUncertaintyEnglishJapaneseEconomicsofInformationEnglishJapaneseGameTheory:IntroductionEnglishJapaneseStaticGamesEnglishJapaneseDynamicGamesEnglishJapaneseRepeatedGamesEnglishJapaneseGameswithIncompleteInformationEnglishJapaneseDynamicGameswithIncompleteInformationEnglishJapaneseProblemSetsandSolutionsDecisionunderUncertainty(updatedonOct.23)solution(updatedonOct.24)Problemsandsolutionsoninformationasymmetrywillbeprovidedincorrespondinggame-theoryexercises.GameTheory:IntroductionsolutionStrategic-FormGames(updatedonDec.4)solution(updatedonDec.11)DynamicGamessolutionRepeatedGamessolutionBayesianGamessolutionDynamicBayesianGamessolutionMockFinalExamsMockExamsolutionsDifficultMockExamsShorterversion(40minutes,uptostrategic-formgames)solutionLongerversion(80minutes,comprehensivetopiccoverage)solution(UpdatedonDec.13)(Comment:Afterwritingthesolution,Irealizedthatthelongerversionisquitedifficultforanexam.Youcanexpectsimplerquestionsintheactualexam)",
+    "links": [
+      {
+        "text": "日本語教材使用に関する注意",
+        "href": "https://shigekiisogai.wordpress.com/%e6%97%a5%e6%9c%ac%e8%aa%9e%e6%95%99%e6%9d%90%e3%81%ae%e4%bd%bf%e7%94%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%88gbc%e7%94%9f%e5%90%91%e3%81%91%ef%bc%89/"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/10y-AAc0f7uPvAIjRKH3oVmFWItNJ1wDc/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1GqXu-7DS3QlDor-hfgQw5mqEuP0nzAj7/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1EfxRYNl9oEnpo6N1LyhnDRs6qkA2tieY/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1VxmXNZl2iVrMNKZi7dzkkjo8cfXhEl8J/view?usp=drive_link"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1L5JDRMXiPmpcMmrd0LlH7XzYcDh2_Hqp/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1bqXgrpfm3niU9TOZOvpHeMAbJXzyX98f/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/10Wx7dzkMO1bpohOU-8xKlCPWskfnw56D/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1EFpyWQgewJp0jmnLmXBXfqOg20b76wOr/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1mu0VLIPR0HgNrGOSSpSfzmqV5TZ57xbC/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1oDiKVXqKYf8YJAuFAiQkCdAQqUCqm7oC/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1TAQ0MQF7DVy2_G_j-wecVmZQ4Ogv0E7w/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1fp1Ce7WXIK4MNZcnYsF0lfCWmlRP1Qmz/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1Ve3clsr__NZJBNljFmmt0Bm521PGTVsN/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1M06TvVnazxtbIcRNYc9UxKqulwa3SNRv/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1phHr_D_PLpvyPzZc_7ZnOF8zSdHyDMOZ/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1zX6320ghCf2FKO5_OSp6qmhmZHt-qEQX/view?usp=sharing"
+      },
+      {
+        "text": "Decision under Uncertainty",
+        "href": "https://drive.google.com/file/d/1FOYZboEZNtaeBPL8ndssafN--0jA1RKE/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1gqmVFzSHUk6_4Dden1VaIwPACHkdaaZa/view?usp=sharing"
+      },
+      {
+        "text": "Game Theory: Introduction",
+        "href": "https://drive.google.com/file/d/1wT-hL6DPLjDRQ-DJLHHi-U2bszFjwzLB/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/15N_KQelwuVZw_TOxW55s-s4C363nfm0a/view?usp=sharing"
+      },
+      {
+        "text": "Strategic-Form Games",
+        "href": "https://drive.google.com/file/d/1eraICdHIOUSZmiHv3zhyFHTv9HqKA8sW/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1kSdSykOaA_nFuUGr9ieKwkqY88CtKJG3/view?usp=sharing"
+      },
+      {
+        "text": "Dynamic Games",
+        "href": "https://drive.google.com/file/d/1mPvE8TPul6MVQpX8WXqz8dtdGhlnzyD2/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1oTk0ZX-rTMb_s4YSrNmf7IcSGlZSFlv0/view?usp=sharing"
+      },
+      {
+        "text": "Repeated Games",
+        "href": "https://drive.google.com/file/d/12Nte8_47LpkjxFnOnN1L3QpGQ0fjqT8E/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1C4u6E60qcgGa6wmivxlH2_Co9qUQ0lwX/view?usp=sharing"
+      },
+      {
+        "text": "Bayesian Games",
+        "href": "https://drive.google.com/file/d/1iogOQABQLXRc7G3Bb7e8kio_yjISJdvA/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1UYbm_nz4CUIYLGNW93L_h7ptEt_D55q_/view?usp=sharing"
+      },
+      {
+        "text": "Dynamic Bayesian Games",
+        "href": "https://drive.google.com/file/d/1iLlRTQGgSMv03OUAmsRmgeR-X8h70BoV/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1CxHaUWeXm7u4cdplf0cKjqcCjhVkUtf1/view?usp=sharing"
+      },
+      {
+        "text": "Mock Exam",
+        "href": "https://drive.google.com/file/d/1XPXUJmtOsuAcgsuaGgngO6qgu25UvzsW/view?usp=sharing"
+      },
+      {
+        "text": "solutions",
+        "href": "https://drive.google.com/file/d/18vAEhnLGBX0nk4fmOWCsdxhvx-nMS5pA/view?usp=sharing"
+      },
+      {
+        "text": "Shorter version",
+        "href": "https://drive.google.com/file/d/1BT9bPS1eOn3xiwfBvdAswKXVqMYBoamr/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1N1su5VNG-U3SpkafbJZzxhm0OKgLCvDB/view?usp=sharing"
+      },
+      {
+        "text": "Longer version",
+        "href": "https://drive.google.com/file/d/1SLbGlwEDs2dGSWr4p9AuiNQx_WjQB99Z/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1hW2JRwNt6uYEVk_xE7j88REsnma9k7se/view?usp=sharing"
+      }
+    ],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "f177c43c8a46199183973dfc57a22d3960d835d6a679ac544120d8186a94236d"
+  },
+  {
+    "title": "ゲーム理論（2025年度前期）",
+    "route": "/ゲーム理論（2025年度前期）/",
+    "source": "https://shigekiisogai.wordpress.com/%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96%EF%BC%882025%E5%B9%B4%E5%BA%A6%E5%89%8D%E6%9C%9F%EF%BC%89/",
+    "lang": "ja",
+    "id": "game-theory-2025",
+    "text": "このページでは講義資料を公開します。講義ノートゲーム理論の基本的な考え方と後ろ向き帰納法(2025.04.25更新)同時手番ゲーム(2025.04.25更新)一般の動学ゲームと部分ゲーム完全均衡(2025.04.25更新)繰り返しゲーム不完備情報ゲーム不完備情報ゲームの応用不完備情報の動学ゲーム練習問題練習問題応用例と後ろ向き帰納法（2025.05.07追加）同時手番ゲーム（2025.05.07追加）展開形ゲームと繰り返しゲーム（2025.06.23追加）不完備情報のゲーム（2025.06.23追加）動学ベイジアンゲーム（2025.06.23追加）解答例応用例と後ろ向き帰納法（2025.06.18追加）同時手番ゲーム（2025.06.18追加）展開形ゲームと繰り返しゲーム（2025.07.15修正版）不完備情報のゲーム（2025.07.08追加）動学ベイジアンゲーム（2025.07.08追加）模擬試験模擬試験問題解答例試験に関する情報日時：試験期間内（後ほど大学からアナウンス）解答時間：80分試験範囲：基本的には授業で扱った内容すべて（発展的な内容は除く）。模擬試験を参照せよ。持ち込み可能なもの：A4用紙1枚に手書きのノートをとったもの（両面可）、電卓（ただし、試験の計算量は多くないので計算が苦手でなければ必要ない）",
+    "links": [
+      {
+        "text": "ゲーム理論の基本的な考え方と後ろ向き帰納法",
+        "href": "https://drive.google.com/file/d/1nx_ElZMHJT30URSxEF7no8HfIqi3AeH_/view?usp=sharing"
+      },
+      {
+        "text": "同時手番ゲーム",
+        "href": "https://drive.google.com/file/d/140IYveXAL9rmncBZmATox495lIx_odBA/view?usp=sharing"
+      },
+      {
+        "text": "一般の動学ゲームと部分ゲーム完全均衡",
+        "href": "https://drive.google.com/file/d/1qzmdWqHRPhSeNzxpwlIbYXtJ4NRKxYan/view?usp=sharing"
+      },
+      {
+        "text": "繰り返しゲーム",
+        "href": "https://drive.google.com/file/d/1kaV31GwK3Qb8psf1gteEWTjQvXiomneV/view?usp=sharing"
+      },
+      {
+        "text": "不完備情報ゲーム",
+        "href": "https://drive.google.com/file/d/1eLG0ZeCXbkh9PQRFZJkLLSRmj6XaeraZ/view?usp=sharing"
+      },
+      {
+        "text": "不完備情報ゲームの応用",
+        "href": "https://drive.google.com/file/d/1Y4TH6m45qIHNqquqqH-5K-bHFERJnZ4p/view?usp=sharing"
+      },
+      {
+        "text": "不完備情報の動学ゲーム",
+        "href": "https://drive.google.com/file/d/1zsb2i9CR-qd8EdxSXpGlQ1qVk90p_MrP/view?usp=sharing"
+      },
+      {
+        "text": "応用例と後ろ向き帰納法",
+        "href": "https://drive.google.com/file/d/1ncbREMBgZtAx1Mo4HLn7XK92xLDsv_P8/view?usp=sharing"
+      },
+      {
+        "text": "同時手番ゲーム",
+        "href": "https://drive.google.com/file/d/12qMOxuEyXx6-f3P4uTFg3TAO9O5qtReL/view?usp=sharing"
+      },
+      {
+        "text": "展開形ゲームと繰り返しゲーム",
+        "href": "https://drive.google.com/file/d/19rssTMhhXnJSHdYkpKFXRTdQFRgU7WWJ/view?usp=sharing"
+      },
+      {
+        "text": "不完備情報のゲーム",
+        "href": "https://drive.google.com/file/d/1PauxSh7GtZAVy-cfgP3GujaWGUIAY2aq/view?usp=sharing"
+      },
+      {
+        "text": "動学ベイジアンゲーム",
+        "href": "https://drive.google.com/file/d/1Cfrs_nTcmDFdYQCMGusp6nyYG2SrgPn0/view?usp=sharing"
+      },
+      {
+        "text": "応用例と後ろ向き帰納法",
+        "href": "https://drive.google.com/file/d/1w7SOSL2YzROujkJ2R8xPUvEY4oTzk14m/view?usp=sharing"
+      },
+      {
+        "text": "同時手番ゲーム",
+        "href": "https://drive.google.com/file/d/1FQB-0oklerEveCHlP3fN5Z9IX-ZorV2x/view?usp=sharing"
+      },
+      {
+        "text": "展開形ゲームと繰り返しゲーム",
+        "href": "https://drive.google.com/file/d/1gcLafpvY-8bcR9ZetDowigBbJxR7IjKU/view?usp=sharing"
+      },
+      {
+        "text": "不完備情報のゲーム",
+        "href": "https://drive.google.com/file/d/1Rk4hhXUbvhIX91f5GXqxJf6VJKrCPH40/view?usp=sharing"
+      },
+      {
+        "text": "動学ベイジアンゲーム",
+        "href": "https://drive.google.com/file/d/1BRQ6zPaJmfK6lN7Ni5qNUPul7BEwGVw2/view?usp=sharing"
+      },
+      {
+        "text": "模擬試験問題",
+        "href": "https://drive.google.com/file/d/1QccX84-vQcnbeA-WZn7kcK2hR9RMXNEL/view?usp=sharing"
+      },
+      {
+        "text": "解答例",
+        "href": "https://drive.google.com/file/d/17E6uA6yEXMAF6cfoF-JOkUMtMe3WOwfG/view?usp=sharing"
+      }
+    ],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "26ae2f94fad66fbff6c9b33162cb1319aae6ceaacd1a54bd8b0ad18ef2c7e5a5"
+  },
+  {
+    "title": "Microeconomics I (2025 Spring)",
+    "route": "/microeconomics-i-undergrad/",
+    "source": "https://shigekiisogai.wordpress.com/microeconomics-i-undergrad/",
+    "lang": "ja",
+    "id": "microeconomics-i-undergrad",
+    "text": "Thecoursematerialswillbesharedonthispage.LectureNotesNote:Thesenotesarepreparedforstudents’selfstudies.Theremightbe,however,typosormistakesinthenotesand/orsomethingthatIonlyexplaininlectures.Pleasedonottakethisasnon-necessityofattendingclasses.(Ofcourseself-studyisveryimportant,)attendingclassesisthebestwaytounderstandthematerials.IalsoprovideJapaneseversions.Sincetheclassis,ofcourse,conveyedinEnglish,youdonothavetouseJapaneseones.IfyouareintendingtofindajobinJapan,however,learningJapaneseisimportant;inthatcase,takingalookatthemmightbebeneficialtoyou(Thenotesarewrittenin“semi-formal”Japanese:itisrelativelyformal,butnotfully)注意:これらのノートは予習・復習のために用意されたものですが、誤字や間違い、また授業で触れない内容が含まれることもあります。講義で話された内容が正式な授業内容になるのでご注意ください。（完全な自学自習を否定はしませんが）授業を聞くのが理解への一番の近道です。日本語版は学習の便宜のために用意しています。もちろん授業では英語を用いますが、自習用に使っていただいて構いません。日本語版の使用に関してより詳しくは以下をご覧ください:日本語教材使用に関する注意(MyopinionaboutdomesticstudentslearningeconomicsinEnglish)IntroductionEnglishJapaneseEconomyandMarketsEnglishJapaneseProducerTheoryEnglishJapaneseConsumerTheoryEnglishJapanesePartialEquilibriumAnalysisEnglishJapaneseGeneralEquilibriumAnalysisEnglishJapaneseMarketFailuresEnglishJapaneseExercisesProblemSetsSolutionsMockExamMockExamSolutionsPastFinalExamFinalExamin2024SolutionsInfo.onTheExamEXAMDATE:Tobeannouncedlater(Duringtheexamweek)DURATION:80minutesCOVERAGE:UptoCh.6:GeneralEquilibrium.Seethemockexam.THINGSYOUCANBRING:handwrittennoteonasheetofA4-sizedpaper(bothsides),aruler,andasimplecalculator(thecalculationintheexamisnothard.Youcanbringitifyouareconcerned)",
+    "links": [
+      {
+        "text": "日本語教材使用に関する注意",
+        "href": "https://shigekiisogai.wordpress.com/%e6%97%a5%e6%9c%ac%e8%aa%9e%e6%95%99%e6%9d%90%e3%81%ae%e4%bd%bf%e7%94%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%88gbc%e7%94%9f%e5%90%91%e3%81%91%ef%bc%89/"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/10he7LmBVAlcOM6ICKuGcfzbenxhTsEev/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/10k9iFzZv6-rgx5jVo19fWkCe3K_pLH0x/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1jFxn-WpRtQcuLM-L3VPG8yXSDLJR7oQ7/view?usp=sharing"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/15xGx5Di9AiDguTBC44Mlm5d0XcrHfnGl/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1I9mS7zc7cGzwbBlOPnHjnkaMB-m-tMag/view?usp=drive_link"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1ery5E3CEVqv9jn0MpDklNuOHkxclkjKk/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1isgi_WKkb67-k6LcwCCidTScZ9t3kWcu/view?usp=drive_link"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1atTNliv8E7jfm7Xr3t64LJAf6Ov3EkrQ/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1gX0sxD710embqUIxMxsbPmGL569H0zH3/view?usp=drive_link"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1Wd4dsJdzV0EiEBSgvHueFIImKzzp04pI/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1BaMkltTibm2oQSqgCD3rRx0tiOuRahyH/view?usp=drive_link"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1aTQrYh_9MYyrLpOhIASPEMGGpCxqUchU/view?usp=sharing"
+      },
+      {
+        "text": "English",
+        "href": "https://drive.google.com/file/d/1QvZgH9QlDyS5C6dWq3Aj_BT2M5UR9Gvr/view?usp=drive_link"
+      },
+      {
+        "text": "Japanese",
+        "href": "https://drive.google.com/file/d/1594q4NgJdMsWUFimziKb_g8SonhyR9Zv/view?usp=sharing"
+      },
+      {
+        "text": "Problem Sets",
+        "href": "https://drive.google.com/file/d/1_Yye3eeT-q4bQb3RlIrUqpx3zt-IkOx4/view?usp=sharing"
+      },
+      {
+        "text": "Solutions",
+        "href": "https://drive.google.com/file/d/1mdTS43v_TLTsJlLcMWKbh14f-TQcrlWb/view?usp=sharing"
+      },
+      {
+        "text": "Mock Exam",
+        "href": "https://drive.google.com/file/d/1BiBKeOrI1xfTKeCdvmfaOVsxD5ZS4kuv/view?usp=sharing"
+      },
+      {
+        "text": "Solutions",
+        "href": "https://drive.google.com/file/d/1ywTDwjoSgHIvTtRWE09oWHy4ClZLPZRz/view?usp=sharing"
+      },
+      {
+        "text": "Final Exam in 2024",
+        "href": "https://drive.google.com/file/d/1zq_hgJuOWzEbqZwNNW0zq62QCEqW8MxN/view?usp=sharing"
+      },
+      {
+        "text": "Solutions",
+        "href": "https://drive.google.com/file/d/1jCobaXxseD41sjI8V1USeKcnPw-T52Cc/view?usp=drive_link"
+      }
+    ],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "6a4bafc3a2c576acec7044eb8b93729c615c0ec7efb06cad4134f9d31e3615d1"
+  },
+  {
+    "title": "Microeconomics (Grad School)",
+    "route": "/microeconomics-grad-school/",
+    "source": "https://shigekiisogai.wordpress.com/microeconomics-grad-school/",
+    "lang": "en",
+    "id": "microeconomics-grad-school",
+    "text": "ThisisawebpageonmicroeconomicsofferedtotheDepartmentofGlobalBusinessattheDepartmentofSocialSciences,UniversityofHyogo.LectureNotes(Incomplete):Thenotesarepreparedforreference.Sincethenotesaretechnical,onlyselectedtopicswillbediscussedduringthelectures.PriceTheoryPreferencesandUtilityFunctionsEmpiricalImplicationsofDemandCorrespondencesConsumerTheoryProducerTheoryDecisionunderUncertaintyGeneralEquilibriumGameTheoryFormulationsStrategic-FormGamesDynamicGamesRepeatedGamesGameswithIncompleteInformationDynamicGameswithIncompleteInformationReference:DecisionunderUncertaintyandInformationEconomicsDecisionunderUncertaintyInformationEconomicsProblemSetsConsumerTheoryandProducerTheorysolutionGameTheory:Introduction(uploadedonNov.21)solution(uploadedonNov.21)GameTheory:Strategic-FormGames(uploadedonDec.4)solution(uploadedonDec.4)DynamicGames(uploadedonDec.18)solution(uploadedonDec.18)RepeatedGames(uploadedonJan.15)solution(uploadedonJan.16)BayesianGames(uploadedonJan.21)solution(uploadedonJan.21)MockExamMockExamsolutionsChallengingProblems(Justforyourstudy)ConsumerTheory(uploadedonOct10)solution(uploadedonOct24)",
+    "links": [
+      {
+        "text": "Preferences and Utility Functions",
+        "href": "https://drive.google.com/file/d/12h-G0kL6e6nMtM9efjfAl2dyljEMhbOF/view?usp=sharing"
+      },
+      {
+        "text": "Empirical Implications of Demand Correspondences",
+        "href": "https://drive.google.com/file/d/1BtWg6W-dmoYpfp5oBMMIpRIi-EwK-q64/view?usp=sharing"
+      },
+      {
+        "text": "Consumer Theory",
+        "href": "https://drive.google.com/file/d/1STg9taqZRuzWRqO6urGoGProCYBNlAn7/view?usp=sharing"
+      },
+      {
+        "text": "Producer Theory",
+        "href": "https://drive.google.com/file/d/1MEXAaZ7YGw7wGUrQzsuTesP-l1MyX5ZO/view?usp=sharing"
+      },
+      {
+        "text": "Decision under Uncertainty",
+        "href": "https://drive.google.com/file/d/1aKFod1vbp2gYSrLYxebTLyR_P7R9n_c5/view?usp=sharing"
+      },
+      {
+        "text": "General Equilibrium",
+        "href": "https://drive.google.com/file/d/1WpIn0KooRSbEb0jpwc4SWwD73fj5ttzP/view?usp=sharing"
+      },
+      {
+        "text": "Formulations",
+        "href": "https://drive.google.com/file/d/1iwGoRQ1vAYi8VlWeEh5jRorMFwFdzF5j/view?usp=sharing"
+      },
+      {
+        "text": "Strategic-Form Games",
+        "href": "https://drive.google.com/file/d/13-VLGyGVD9neygaXoVeBmhoZPzvAVVaH/view?usp=sharing"
+      },
+      {
+        "text": "Dynamic Games",
+        "href": "https://drive.google.com/file/d/1w1EcnM_ZKLZQoljSg3pwh9kZ5Hzs-TWH/view?usp=sharing"
+      },
+      {
+        "text": "Repeated Games",
+        "href": "https://drive.google.com/file/d/1vUmOh2-Sr_B62v0H67s40JaWa_qirmJ3/view?usp=sharing"
+      },
+      {
+        "text": "Games with Incomplete Information",
+        "href": "https://drive.google.com/file/d/1R4PpnXkHJ_mFJZDsEe2_JtfaOTPN_N_Y/view?usp=sharing"
+      },
+      {
+        "text": "Dynamic Games with Incomplete Information",
+        "href": "https://drive.google.com/file/d/1I1arqgYtQJN5NYq1WwkbDnlLLIvYzgkl/view?usp=sharing"
+      },
+      {
+        "text": "Decision under Uncertainty",
+        "href": "https://drive.google.com/file/d/1OXYmSEH8OwrGNhVXPT3gJuIbFwLPrhmJ/view?usp=sharing"
+      },
+      {
+        "text": "Information Economics",
+        "href": "https://drive.google.com/file/d/1Ya0xiln3Cc1kEOo1YozUg325tmbZQVVX/view?usp=sharing"
+      },
+      {
+        "text": "Consumer Theory and Producer Theory",
+        "href": "https://drive.google.com/file/d/1ruHYkRBEJCu2MT_Yx3uR-L1HN5JNP-cq/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1KOSk81hasbrEqBD0JH2oFqXQVHCJd1xZ/view?usp=drive_link"
+      },
+      {
+        "text": "Game Theory: Introduction",
+        "href": "https://drive.google.com/file/d/1wT-hL6DPLjDRQ-DJLHHi-U2bszFjwzLB/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/15N_KQelwuVZw_TOxW55s-s4C363nfm0a/view?usp=drive_link"
+      },
+      {
+        "text": "Game Theory: Strategic-Form Games",
+        "href": "https://drive.google.com/file/d/1eraICdHIOUSZmiHv3zhyFHTv9HqKA8sW/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1kSdSykOaA_nFuUGr9ieKwkqY88CtKJG3/view?usp=drive_link"
+      },
+      {
+        "text": "Dynamic Games",
+        "href": "https://drive.google.com/file/d/1mPvE8TPul6MVQpX8WXqz8dtdGhlnzyD2/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1oTk0ZX-rTMb_s4YSrNmf7IcSGlZSFlv0/view?usp=drive_link"
+      },
+      {
+        "text": "Repeated Games",
+        "href": "https://drive.google.com/file/d/12Nte8_47LpkjxFnOnN1L3QpGQ0fjqT8E/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1C4u6E60qcgGa6wmivxlH2_Co9qUQ0lwX/view?usp=drive_link"
+      },
+      {
+        "text": "Bayesian Games",
+        "href": "https://drive.google.com/file/d/1iogOQABQLXRc7G3Bb7e8kio_yjISJdvA/view?usp=drive_link"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1UYbm_nz4CUIYLGNW93L_h7ptEt_D55q_/view?usp=sharing"
+      },
+      {
+        "text": "Mock Exam",
+        "href": "https://drive.google.com/file/d/1PIQgTQAVmBlzF_FLcBJ7cZKgGMBYosGM/view?usp=sharing"
+      },
+      {
+        "text": "solutions",
+        "href": "https://drive.google.com/file/d/1ofsmDlZBkcA1dFoXN8o8aiWlq7v3T-Ga/view?usp=sharing"
+      },
+      {
+        "text": "Consumer Theory",
+        "href": "https://drive.google.com/file/d/1oBs_-OAR1-5Lhaa39Te6u2kF90sq9zXI/view?usp=sharing"
+      },
+      {
+        "text": "solution",
+        "href": "https://drive.google.com/file/d/1RV090oRE9JxCGqCN6KUXApOLffY_cfjr/view?usp=sharing"
+      }
+    ],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "166961d4892fa46bca7097b64d82f42f8b7a4dbe88bac825e8958a500f0f88ad"
+  },
+  {
+    "title": "日本語教材の使用について（GBC生向け）",
+    "route": "/日本語教材の使用について（gbc生向け）/",
+    "source": "https://shigekiisogai.wordpress.com/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%95%99%E6%9D%90%E3%81%AE%E4%BD%BF%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%88gbc%E7%94%9F%E5%90%91%E3%81%91%EF%BC%89/",
+    "lang": "ja",
+    "id": "japanese-materials-policy",
+    "text": "要約あくまで磯貝独自の対応として、一部の教材のみ日本語版も用意します自習・事前学習に役立ててください英語でのコミュニケーションも大事です他のGBC担当教員への要求材料には使わないでください英語での経済学教育についての磯貝の考えご存知の通り本学GBCでは英語を用いて経済・経営・会計学の教育が行われています。留学生の在籍数も比較的多く、皆さんには英語で学び、また留学生とも共通語としての英語を用いて交流することが期待されています。とはいえ、現実に日本で教育を受けた大学生が高等教育のための英語を身につけるのは簡単ではありません。単純に一般的な用途のための英語のproficiencyを身につけることですら日本では至難の業ですし、さらに大学など高等教育の場で用いられる英語は専門用語やアカデミック/フォーマルな表現、文章の構成など、より要求水準の高いものになってきます（もっとも、専門用語や文章構造がある程度限定されるので、一定以上のトレーニングを積んだならば社交のための英語よりは楽になってきます）。この「日本での英語学習」の難しさに加え、GBCでは母語以外の言語で専門教育を受けるという点が難しさに拍車をかけています。本来、（少なくとも経済学の）大学での専門教育は（学生の基礎学力が許す限り）どの大学でもある程度統一的な教育を受けることができ、興味に応じてどこまででも深く学ぶことができるものです。したがって、（意図的に教員が難度を下げない限り）ここGBCでも東大や京大など有名校と遜色ない教育を受けることができる一方で、その難度の高い内容を母語で学べないというのはなかなか厳しいことです。ある研究によると母語以外の言語で学ぶときには理解度が半分近くまで下がるとも言われています(KojimaandYashima,2017)。単純に皆さんが他大の学生の2倍-3倍勉強すれば差を埋められるかもしれませんが、時間は有限なのでそれを要求するのも酷というものです。なので今後（2024年秋学期以後）は、試験的に一部教材については日本語と英語の両バージョンを用意することにします（作成が追い付かない可能性があることはご了承ください）。自習・事前学習の際には日本語教材で理解を深め、また友人とのコミュニケーションのために英語教材も確認して授業に挑んでいただければと思います。なお私は専門教育の理解をより重視していますが、語学が重要でないとまでは考えていません。GBCにいる以上英語で話すことは面倒に思ってもらいたくないですし、留学生との交流もどんどんしていってほしいです。なんなら、留学生が困ってたら助けてあげてください（彼ら彼女らのほとんども、経済学を外国語で学んでいる仲間です）。また、これは磯貝が勝手にやっていることです。他のGBCの授業を担当している教員に「日本語でのサポートをしろ」と要求する材料には絶対に使わないでください。参考文献Kojima,N.,andYashima,T.(2017)“MotivationinEnglishmediuminstructionclassroomsfromtheperspectiveofself-determinationandtheidealself,”JACETJournal,61pp.23-39.",
+    "links": [],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "2191519b24c345c6d8d967fb461795f17e07b0d92f654fce6f7bed4039efe857"
+  },
+  {
+    "title": "磯貝 茂樹",
+    "route": "/日本語/",
+    "source": "https://shigekiisogai.wordpress.com/%E6%97%A5%E6%9C%AC%E8%AA%9E/",
+    "lang": "ja",
+    "id": "japanese",
+    "text": "現在の所属：兵庫県立大学国際商経学部准教授研究の興味はミクロ経済学・ゲーム理論で，特に現在は合理化可能性の観点からゲームにおける妥当な帰結を分析し，均衡概念では説明しにくい現象を説明することに興味を持っています．主な応用先はカルテル・談合の分析です．教育面では現所属のグローバルビジネスコース（GBC)にて，国内学生と留学生の両方に主に英語でミクロ経済学・ゲーム理論を教えています．2023年夏までは中国四川省成都にある西南財経大学の経済与管理研究院で副教授（名目上はAssociateProfessor相当でしたが，実際にはテニュアトラックのAssistantProfessor相当）をしておりました．日本語でのブログ：中国での生活やアメリカでの博士課程に関して過去に書いた記事があります．現在は休止中．",
+    "links": [
+      {
+        "text": "日本語でのブログ",
+        "href": "https://sisogaiblog.wordpress.com"
+      }
+    ],
+    "images": [],
+    "anchors": [],
+    "sourceSha256": "eae7e88af4271a4c195a27dfa87f5dfa8ec7ee479ec385afecbb5e1d4c38e074"
+  }
+]

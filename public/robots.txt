@@ -1,0 +1,4 @@
+# Preview: robots meta / X-Robots-Tag provide noindex.
+# Crawling is allowed so search engines can read noindex.
+User-agent: *
+Allow: /

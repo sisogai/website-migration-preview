@@ -1,0 +1,35 @@
+---
+import '../styles/site.css';
+import routes from '../lib/routes.json';
+import {withBase} from '../lib/paths.mjs';
+const {title, lang='en',route='/',source}=Astro.props;
+const base=import.meta.env.BASE_URL;
+const menu=['research','teaching','course-materials','advising','japanese'].map(id=>({...routes.find(p=>p.id===id)!,label:id==='japanese'?'日本語での情報':routes.find(p=>p.id===id)!.title}));
+---
+<!doctype html>
+<html lang={lang}>
+ <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow, noarchive" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <title>{title} – Shigeki ISOGAI</title>
+ </head>
+ <body>
+  <a class="skip-link" href="#content">Skip to content / 本文へ</a>
+  <div class="site">
+   <header class="site-header">
+    <a class="site-title" href={withBase('/',base)}>Shigeki ISOGAI</a>
+    <details class="mobile-menu"><summary>Menu / メニュー</summary><nav aria-label="Mobile navigation"><ul>{menu.map(p=><li><a href={withBase(p.route,base)} aria-current={p.route===route?'page':undefined}>{p.label}</a></li>)}</ul></nav></details>
+    <nav class="desktop-menu" aria-label="Main navigation"><ul>{menu.map(p=><li><a href={withBase(p.route,base)} aria-current={p.route===route?'page':undefined}>{p.label}</a></li>)}</ul></nav>
+   </header>
+   <main id="content" class:list={['site-content',{'home-page':route==='/'}]}>
+    <article class="content-area"><h1 class="entry-title">{title}</h1><div class="entry-content"><slot /></div></article>
+   </main>
+   <footer class="site-footer">
+    <nav aria-label="Footer navigation"><ul>{menu.map(p=><li><a href={withBase(p.route,base)}>{p.label}</a></li>)}</ul></nav>
+    <p><a href={withBase('/',base)}>Shigeki ISOGAI</a> <span aria-hidden="true">/</span> <span>Migration preview / 移行試作</span>{source&&<> <span aria-hidden="true">/</span> <a href={source}>Original page / 元ページ</a></>}</p>
+   </footer>
+  </div>
+ </body>
+</html>
