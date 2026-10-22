@@ -50,3 +50,9 @@ npm run preview:cloudflare
 [初回のGitHub Actions実行](https://github.com/sisogai/website-migration-preview/actions/runs/39814022979)で、インストール・公開前検査・脆弱性検査・単体テスト・両ビルド・本文照合・Pagesデプロイがすべて成功しました。
 
 公開URLでも14ページすべてがHTTP 200で、存在しないパスは専用本文付きHTTP 404でした。公開Homeをブラウザーで表示し、CSS、本文、メニューのサブディレクトリURL、noindexを確認しました。
+
+### 説明書追記後の実行状況
+
+説明書だけを追記したコミット `53cc733` の[2回目の実行](https://github.com/sisogai/website-migration-preview/actions/runs/39814389664)では、ビルド・検査が成功し、公開ジョブがGitHub環境の待機状態になりました。公開元はmainと一致し、追加の承認者や待機タイマーは設定されていません。停止を試みた際には完了済みとの応答が返りましたが、状態取得は引き続き待機を示し、最終状態を確認できていません。
+
+同時刻の[GitHub公式ステータス](https://www.githubstatus.com/)ではActionsを含むサービスの性能低下が公表されており、関連する可能性があります。初回の公開成功と実サイトの正常応答は確認済みです。2回目の変更は説明書だけで、配信対象のHTML/CSSは同一です。この注記の追記は `[skip ci]` を付けて保存し、追加の同一サイト再公開を発生させていません。
