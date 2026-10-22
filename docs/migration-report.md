@@ -39,3 +39,10 @@ PCの白い本文領域、黒い外枠、左寄せ本文、上部メニュー、
 依存関係はAstro、Wrangler、HTML解析用Cheerio、Markdown変換用Turndownに限定し、バージョンとlockfileを固定しています。公式npmレジストリから `--ignore-scripts` で導入しました。導入時のnpm auditでは既知の脆弱性0件でした。依存コード全体の手作業監査や将来の脆弱性の不存在を保証するものではありません。
 
 公開用の検査は、ファイルの許可範囲、秘密情報の典型パターン、ローカルパス、不審なHTML、本文の基準との一致を確認します。公開可否が不明な新規コンテンツは、本人が確認するまで取り込みを保留する運用です。
+
+## 公開結果
+
+新規公開リポジトリ: <https://github.com/sisogai/website-migration-preview>  
+GitHub Pages: <https://sisogai.github.io/website-migration-preview/>
+
+専用リポジトリを新設し、GitHub Actionsによる検査と公開が成功しました。既存の教材は従来のURLでHTTP 200を確認しました。Cloudflareは未認証のため、ローカル配信・dry-runと公開手順の準備まで完了しています。

@@ -42,3 +42,11 @@ npm run preview:cloudflare
 ```
 
 画面幅を390px、820px、1280pxにして全ページとメニューを確認します。存在しないパスでもHomeへのリンクが有効であることを確認します。HTTP検査は `node scripts/check-http.mjs http://127.0.0.1:8787/ cloudflare` で再実行できます。
+
+## GitHub Pages公開後の検証
+
+公開URL: <https://sisogai.github.io/website-migration-preview/>
+
+[初回のGitHub Actions実行](https://github.com/sisogai/website-migration-preview/actions/runs/39814022979)で、インストール・公開前検査・脆弱性検査・単体テスト・両ビルド・本文照合・Pagesデプロイがすべて成功しました。
+
+公開URLでも14ページすべてがHTTP 200で、存在しないパスは専用本文付きHTTP 404でした。公開Homeをブラウザーで表示し、CSS、本文、メニューのサブディレクトリURL、noindexを確認しました。

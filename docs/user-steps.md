@@ -1,6 +1,10 @@
 # 本人が行う操作
 
-GitHub Pagesの試験公開とソース管理はこの専用リポジトリで行います。WordPressを従来どおり利用できます。
+GitHub Pagesの試験公開は完了しています。追加のログイン操作は不要です。WordPressを従来どおり利用できます。
+
+試験サイト: <https://sisogai.github.io/website-migration-preview/>
+
+ソース: <https://github.com/sisogai/website-migration-preview>
 
 ## Cloudflareにも公開する場合
 
