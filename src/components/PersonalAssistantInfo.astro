@@ -1,0 +1,27 @@
+---
+import Layout from '../layouts/Layout.astro';
+import {withBase} from '../lib/paths.mjs';
+const {title, section='overview'}=Astro.props;
+const base=import.meta.env.BASE_URL;
+const root='/hermes-personal-assistant/';
+const links=[{key:'overview',label:'連携の紹介',route:root},{key:'privacy',label:'プライバシーポリシー',route:root+'privacy/'},{key:'terms',label:'利用条件',route:root+'terms/'}];
+---
+<Layout title={title} lang="ja" route={root}>
+ <div class="personal-assistant-info">
+  <p class="app-label">Hermes Personal Assistant · 個人用の読み取り連携</p>
+  <nav aria-label="Google連携の説明"><ul>{links.map(l=><li><a href={withBase(l.route,base)} aria-current={section===l.key?'page':undefined}>{l.label}</a></li>)}</ul></nav>
+  <slot />
+  <p class="updated">最終更新日：2026年10月26日</p>
+ </div>
+</Layout>
+<style>
+ .personal-assistant-info{max-width:880px}
+ .app-label,.updated{color:var(--muted);font-size:.9rem}
+ nav ul{display:flex;flex-wrap:wrap;gap:8px 18px;padding:0!important;list-style:none}
+ nav li{padding:0!important}
+ nav a[aria-current=page]{font-weight:700;text-decoration-thickness:2px}
+ nav{padding-bottom:20px;border-bottom:1px solid var(--line);margin-bottom:32px}
+ .updated{margin-top:48px!important}
+ :global(.personal-assistant-info code){overflow-wrap:anywhere;white-space:normal;font-size:.85em}
+ :global(.personal-assistant-info table){width:100%}
+</style>

@@ -1,0 +1,25 @@
+---
+import Info from '../../components/PersonalAssistantInfo.astro';
+---
+<Info title="Hermes Personal Assistant">
+ <p>Hermes Personal Assistantは、運用者本人の個人用GmailとGoogleカレンダーを読み取り、本人向けの予定・メール確認レポートを作成するための連携です。運用者は磯貝茂樹です。</p>
+ <p>Googleデータの読み取りとレポートの作成は、本人が管理する端末で行います。既存のHermesと、本人向けのTelegram報告を利用します。</p>
+ <h2>扱う情報と目的</h2>
+ <ul>
+  <li>本人のメインカレンダーから、指定した期間の予定を確認します。</li>
+  <li>個人用Gmailの差出人・宛先・件名・日時などの情報と短い本文の抜粋から、連絡事項や対応候補を確認します。</li>
+  <li>取得時刻と確認範囲を示し、情報を取得できた場合と取得が保留・失敗した場合を区別して報告します。</li>
+ </ul>
+ <h2>Googleに求める権限</h2>
+ <p>読み取り専用の権限に限定します。メールの送信・削除や、予定の追加・編集・削除に使う権限は要求しません。</p>
+ <table><thead><tr><th scope="col">対象</th><th scope="col">権限の内容</th></tr></thead><tbody>
+  <tr><th scope="row">Gmail</th><td>メールと設定の閲覧<br /><code>https://www.googleapis.com/auth/gmail.readonly</code></td></tr>
+  <tr><th scope="row">Google Calendar</th><td>本人が所有するカレンダーの予定の閲覧<br /><code>https://www.googleapis.com/auth/calendar.events.owned.readonly</code></td></tr>
+ </tbody></table>
+ <p>Gmailの権限にはメール本文の閲覧も含まれます。定期レポートで取得する内容は、必要なメタデータと短い抜粋に絞ります。対象アカウントは本人の個人用Googleアカウントに限定し、大学メールのアカウントは接続対象から除外します。</p>
+ <h2>利用と認可</h2>
+ <p>本人が端末からGoogleの認可画面を開き、対象アカウントと権限を確認して許可します。認証情報は端末内で管理します。この説明ページに、メール・予定の内容や認証情報を掲載することはありません。</p>
+ <p>接続の再開は、本人の認可と、配信を伴わない読み取り試験を終えてから行います。データの保存・共有・削除についてはプライバシーポリシーをご確認ください。</p>
+ <h2>連絡先</h2>
+ <p>本連携についての問い合わせ先は、Googleの認可画面に表示するユーザーサポート用の連絡先です。</p>
+</Info>
